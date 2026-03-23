@@ -15,7 +15,4 @@
 - TBD
 - TBD
 
-🐱‍💻 Favorite Languages + Programs
-- Kali Linux
-- Python
-- Java
+[![Tori's GitHub stats](https://github-readme-stats.vercel.app/api?username=towihacker)](https://github.com/towihacker/github-readme-stats)
