@@ -20,5 +20,5 @@
 
 ## 🔜 Goals 
 - Masters in Computer Science @ University of Oxford
-- 
+- Senior Cyber Data and Infrastructure Security Engineering Developer @ Deloitte
 
