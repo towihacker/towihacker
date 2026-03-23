@@ -14,5 +14,5 @@
 - TBD
 - TBD
 
-[![Tori's GitHub stats](https://github-readme-stats.vercel.app/api?username=towihacker)](https://github.com/towihacker/github-eeadme-stats)
+![Tori's GitHub stats](https://github-readme-stats.vercel.app/api?username=towihacker&show_icons=true&theme=radical)
 
