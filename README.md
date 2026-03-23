@@ -11,5 +11,4 @@
 - [two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/) // In Progress
 
 💡 Future Projects // Interested? join me [here](test@gmail.com) :)
-- 💊 Medical Assistant Chatbot - "Clarity for Your Health, Anytime"
-- AI Diet & Health Planner - "Optimize your diet—and your budget"
+- 
