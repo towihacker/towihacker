@@ -1,5 +1,5 @@
 ## 🪽 About Me
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=WELCOME)](https://git.io/typing-svg)&color=FFC0CB&size=40&center=true&vCenter=true&width=800&height=100)
+([![Typing SVG](https://readme-typing-svg.demolab.com/?lines=WELCOME)](https://git.io/typing-svg)&color=FFC0CB&size=40&center=true&vCenter=true&width=800&height=100)
 - My name is Tori 私のトリです / English OK
 - 24 y.o applied AI enthusiast and gamer
 - I’m passionate about using AI to tackle real-world problems, especially in healthcare.
