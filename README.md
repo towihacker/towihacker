@@ -21,6 +21,8 @@
 ## 🔜 Goals (Small to Big)
 - Learn to code smarter, not harder
 - Get my certs! AWS, COMPTIA+, CCNA, etc.
+- Launch a game on a major platform and reach 50,000 consecutive active players
+- Launch innovative telehealth solutions to streamline consultations and improve medical workflows
 - Masters in Computer Science @ University of Oxford
 - Become the top software engineer @ Riot Games :)) Jk
 
