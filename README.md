@@ -18,3 +18,7 @@
 
 ![Tori's GitHub stats](https://github-readme-stats.vercel.app/api?username=towihacker&show_icons=true&theme=radical)
 
+## 🔜 Goals 
+- Masters in Computer Science @ University of Oxford
+- 
+
