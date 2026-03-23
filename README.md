@@ -15,8 +15,6 @@
 💡 Future Projects // Interested? join me [here](test@gmail.com) :)
 - "Habit Defuser" (CUE - CRAVE - RESPONSE - REWARD SYSTEM) Inspired by *Atomic Habits* by James Clear
 
-![Tori's GitHub stats](https://github-readme-stats.vercel.app/api?username=towihacker&show_icons=true&theme=radical)
-
 ## 🔜 Goals (Small to Big)
 - Learn to code smarter, not harder
 - Get my certs! AWS, COMPTIA+, CCNA, etc.
