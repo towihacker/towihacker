@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=WELCOME)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=WELCOME TO MY PROFILE)](https://git.io/typing-svg)
 ## 🪽 About Me
 - My name is Tori 私のトリです / English OK
 - 24 y.o applied AI enthusiast and gamer
