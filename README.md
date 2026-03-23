@@ -18,7 +18,9 @@
 
 ![Tori's GitHub stats](https://github-readme-stats.vercel.app/api?username=towihacker&show_icons=true&theme=radical)
 
-## 🔜 Goals 
+## 🔜 Goals (Small to Big!)
+- Learn to code smarter, not harder
+- Get my certs! AWS, COMPTIA+, CCNA, etc.
 - Masters in Computer Science @ University of Oxford
-- Senior Cyber Data and Infrastructure Security Engineering Developer @ Deloitte
+- Work at Riot Games :)) Jk
 
