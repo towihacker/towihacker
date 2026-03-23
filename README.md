@@ -24,7 +24,7 @@
 - Become the top software engineer @ Riot Games :)) JKKKKKK
 
 *I want my 24-hours to be filled w/ coding, twitch streaming, film acting, and sleeping ;)*
-### Milestone Tracker 🎯
+## 🚀 Milestone Tracker 
 - [x] Get my degree in Information Technology
 - [ ] Complete 10 leet code problems from scratch
 - [ ] Create and publish a game
