@@ -13,8 +13,7 @@
 - [two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/) // In Progress
 
 💡 Future Projects // Interested? join me [here](test@gmail.com) :)
-- TBD
-- TBD
+- "Habit Defuser" (CUE - CRAVE - RESPONSE - REWARD SYSTEM) Inspired by *Atomic Habits* by James Clear
 
 ![Tori's GitHub stats](https://github-readme-stats.vercel.app/api?username=towihacker&show_icons=true&theme=radical)
 
