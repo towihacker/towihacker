@@ -5,8 +5,6 @@
 - I’m passionate about using AI to tackle real-world problems, especially in healthcare.
 - Wanna chat? Email me [here](test@gmail.com) :)
 
-<a href="https://example.com" style="color: red;">My Link</a>
-
 ## ⏳ Leet Code Progression
 - [Two Sum](https://leetcode.com/problems/two-sum/description) // In Progress
 - [3sum](https://leetcode.com/problems/3sum/) // In Progress
