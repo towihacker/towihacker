@@ -3,7 +3,7 @@
 ![test](https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif)
 
 ## 🪽 About Me
-- My name is Tori 私のトリです / English + 日本語OK
+- My name is **Tori 私のトリです** / English + 日本語OK
 - 24 y.o applied AI enthusiast and gamer
 - Bachelors in **Information Technology, System Administration**
 - Vocational Degree in **Graphic Design and Communication**
