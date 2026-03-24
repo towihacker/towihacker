@@ -12,10 +12,10 @@
 
 ![Tori's GitHub stats](https://github-readme-stats.vercel.app/api?username=towihacker&show_icons=true&theme=dracula)
 
-## ⏳ Leet Code Progression
-- [Two Sum](https://leetcode.com/problems/two-sum/description) // In Progress
-- [3sum](https://leetcode.com/problems/3sum/) // In Progress
-- [two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/) // In Progress
+## ⏳ Leet Code Progression (COMPLETED)
+- [Two Sum](https://leetcode.com/problems/two-sum/description)
+- [Add Two Integers](https://leetcode.com/problems/add-two-integers/)
+- [Return Lengths of Arguments Passed]([v](https://leetcode.com/problems/return-length-of-arguments-passed/))
 
 💡 Future Projects // Interested? join me [here](test@gmail.com) :)
 - "Habit Defuser" (CUE - CRAVE - RESPONSE - REWARD SYSTEM) Inspired by *Atomic Habits* by James Clear
