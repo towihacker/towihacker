@@ -15,7 +15,7 @@
 ## ⏳ Leet Code Progression (COMPLETED)
 - [Two Sum](https://leetcode.com/problems/two-sum/description)
 - [Add Two Integers](https://leetcode.com/problems/add-two-integers/)
-- [Return Lengths of Arguments Passed]([v](https://leetcode.com/problems/return-length-of-arguments-passed/))
+- [Return Lengths of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/description/)
 
 💡 Future Projects // Interested? join me [here](test@gmail.com) :)
 - "Habit Defuser" (CUE - CRAVE - RESPONSE - REWARD SYSTEM) Inspired by *Atomic Habits* by James Clear
