@@ -17,6 +17,7 @@
 - [Add Two Integers](https://leetcode.com/problems/add-two-integers/)
 - [Return Lengths of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/description/)
 - [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/description/)
+- -[Minimum Operations To Make Array Sum Divisible By K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/submissions/1958985309/)
 
 ## 💡 Future Projects // Interested? join me [here](test@gmail.com) :)
 - "Habit Defuser" (CUE - CRAVE - RESPONSE - REWARD SYSTEM) Inspired by *Atomic Habits* by James Clear
