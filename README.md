@@ -18,7 +18,7 @@
 - [Return Lengths of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/description/)
 - [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/description/)
 
-💡 Future Projects // Interested? join me [here](test@gmail.com) :)
+## 💡 Future Projects // Interested? join me [here](test@gmail.com) :)
 - "Habit Defuser" (CUE - CRAVE - RESPONSE - REWARD SYSTEM) Inspired by *Atomic Habits* by James Clear
 
 ## 🔜 Goals (Small to Big)
