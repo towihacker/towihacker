@@ -7,7 +7,6 @@
 - 24 y.o applied AI enthusiast and gamer
 - Bachelors in **Information Technology, System Administration**
 - Vocational Degree in **Graphic Design and Communication**
-- I’m passionate about using AI to tackle real-world problems, especially in healthcare.
 - Wanna chat? Email me [here](test@gmail.com) :)
 
 ![Tori's GitHub stats](https://github-readme-stats.vercel.app/api?username=toribeqr&show_icons=true&theme=dracula)
