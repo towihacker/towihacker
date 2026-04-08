@@ -9,6 +9,7 @@
 - Vocational Degree in **Graphic Design and Communication**
 - Wanna chat? Email me [here](test@gmail.com) :)
 
+Next Steps: Masters in Computer Science & Engineering
 
 
 ## 💡 Future Projects // Interested? join me [here](test@gmail.com) :)
