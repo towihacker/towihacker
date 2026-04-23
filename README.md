@@ -11,7 +11,7 @@ Next Steps: Masters in Computer Science & Engineering
 
 
 ## 💡 Future Projects // Interested? join me [here](test@gmail.com) :)
-- "Habit Defuser" (CUE - CRAVE - RESPONSE - REWARD SYSTEM) Inspired by *Atomic Habits* by James Clear
+- TBD
 
 ## 🔜 Goals (Small to Big)
 - Learn to code smarter, not harder
